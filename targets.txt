@@ -1,0 +1,10 @@
+# MCP Bug Bounty Targets — one target path per line
+# Clone public repos first (e.g. git clone https://github.com/<owner>/<repo>.git /tmp/<repo>),
+# then list the local checkout paths here. Only public repos belong in this file.
+
+# Public targets (clone first via `git clone`)
+# /tmp/awslabs-mcp            — https://github.com/awslabs/mcp
+# /tmp/inspector              — https://github.com/modelcontextprotocol/inspector
+# /tmp/cloudflare-mcp         — https://github.com/cloudflare/mcp-server-cloudflare
+# /tmp/pal-mcp-server         — public repo, owner/repo to confirm before adding
+# /tmp/gmail-mcp-server       — public repo, owner/repo to confirm before adding

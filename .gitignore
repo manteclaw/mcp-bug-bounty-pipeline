@@ -1,0 +1,20 @@
+# Python / venv
+venv/
+__pycache__/
+*.pyc
+
+# Scan outputs (raw JSONs embed third-party code snippets — never commit them)
+scans/*.json
+scan-results.json
+bounty-summary.md
+
+# Secrets / local config
+.env
+.env.*
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
